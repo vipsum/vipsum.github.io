@@ -1,0 +1,16 @@
+{
+  "name": "myproject",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite docs/",
+    "build": "vite build docs/",
+    "preview": "vite preview docs/"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "three": "^0.141.0"
+  }
+}
