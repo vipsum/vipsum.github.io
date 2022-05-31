@@ -1,4 +1,14 @@
 @import url("https://use.typekit.net/jmk3xov.css");
+a:link {
+  color: rgb(100, 7, 114);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(147, 0, 132);
+  background-color: transparent;
+  text-decoration: underline;
+}
 html, body {
   margin: 0;
   height: 100%;
